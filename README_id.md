@@ -36,7 +36,7 @@ FFFFFF
 - Pada kolom ke dua warna yang digunakasn sama dengan warna teks pada kolom 1
 ## Misal pada gambar di atas:
 - pada `kolom 1 baris 1`, [#222A35](#222A35) adalah isi teks, dan warna teksnya adalah [#222A35](#222A35) 
-- pada `kolom 3 baris 1`, text menggunakan warna [#222A35](#222A35)  dan background menggunakan kebalikannya yaitu [#D6DCE4](#D6DCE4)(`Kolom6 baris 3`)
+- pada `kolom 3 baris 1`, text menggunakan warna [#222A35](#222A35)  dan background menggunakan kebalikannya yaitu [#D6DCE4](#D6DCE4)(`Kolom 6 baris 3`)
 - `Baris 1` menggunakan background [#64758D](#64758D) sebagaiman tertulis di samping color group
 - Pada `kolom 2 baris 1` warna yang digunakan adalah [#222A35](#222A35)  sama dengan warna dan teks pada kolom 1
 
