@@ -3,8 +3,8 @@
 ## Colors picking method:
 Colors are picked from Microsoft Word using software called [jpicker](github.com/stanford-gfx/jpicker). Some colors in Grayscale color group have been changed from the original data because in the original data some colors are red dominant.
 I have added both the original data and the modified data to this repo:
-- [Original Data]()
-- [Changed Data (used in this repo)]()
+- [Original Data](microsoft_word_standard_colors_original_data.csv)
+- [Changed Data (used in this repo)](microsoft_word_standard_colors_data.csv)
 ## Microsoft Word Standard Color Table
 #### *cells that are marked with (AVG) are the average color from their colors group.
 BW|BW-BLUE|BLUE|ORANGE|GRAY|YELLOW|BLUE2|GREEN
