@@ -37,7 +37,7 @@ FFFFFF
 
 ![BW-BLUE](BW-BLUE.png "fig1")
 ## For example in the image above:
-- in `column 1 row 1`, #222A35 is the text content, and the text color is [#222A35]().
+- in `column 1 row 1`, [#222A35] is the text content, and the text color is [#222A35]().
 - in `column 3 row 1`,  the text color is follows column 1 line 1, and the background color uses the opposite, i.e. [#D6DCE4]()(`column 6 row 3`).
-- in `rows 1 to 6`, use the same background color [#64758D]() as written next to the color group name
+- in `rows 1 to 6`, use the same background color [#64758D] as written next to the color group name
 - in `column 2 row 1`, the color that is used is [#222A35]() equals to the color and text in `column 1`.
