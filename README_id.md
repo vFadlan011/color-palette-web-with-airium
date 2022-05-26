@@ -3,8 +3,8 @@
 ## Metode pengambilan warna:
 Warna diambil dari Microsoft Word menggunakan software [jpicker](github.com/stanford-gfx/jpicker). Beberapa warna yang ada dalam group `Graycscale` telah diubah dari data asli karena pada data asli terdapat warna yang sedikit dominan ke warna merah.
 Baik data asli maupun data yang diubah sudah saya tambahkan ke dalam repo ini:
-- [Data Asli](microsoft_word_standard_colors_original_data.csv)
-- [Data yang sudah diubah (digunakan saat ini)](microsoft_word_standard_colors_data.csv)
+- [Data Asli]()
+- [Data yang sudah diubah (digunakan saat ini)]()
 ## Microsoft Word Standard Color Table
 #### *sel yang ditandai (AVG) adalah warna rata-rata dari color groupnya.
 BW|BW-BLUE|BLUE|ORANGE|GRAY|YELLOW|BLUE2|GREEN
@@ -36,7 +36,7 @@ FFFFFF
 
 ![BW-BLUE](BW-BLUE.png "fig1")
 ## Misal pada gambar di atas:
-- pada `kolom 1 baris 1`, [#222A35]() adalah isi teks, dan warna teksnya adalah [#222A35]() .
+- pada `kolom 1 baris 1`, [#222A35]() adalah isi teks, dan warna teksnya adalah [#222A35]().
 - pada `kolom 3 baris 1`, text menggunakan warna [#222A35]()  dan background menggunakan kebalikannya yaitu [#D6DCE4]()(`kolom6 baris 3`).
 - Pada `baris 1 sampai baris 6`, menggunakan warna background yang sama yaitu [#64758D]() sebagaimana tertulis di samping nama color group.
 - Pada `kolom 2 baris 1` warna yang digunakan adalah [#222A35]()  sama dengan warna dan teks pada `kolom 1`.

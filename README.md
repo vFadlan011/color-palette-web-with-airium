@@ -3,8 +3,8 @@
 ## Colors picking method:
 Colors are picked from Microsoft Word using software called [jpicker](github.com/stanford-gfx/jpicker). Some colors in Grayscale color group have been changed from the original data because in the original data some colors are red dominant.
 I have added both the original data and the modified data to this repo:
-- [Original Data](microsoft_word_standard_colors_original_data.csv)
-- [Changed Data (used in this repo)](microsoft_word_standard_colors_data.csv)
+- [Original Data]()
+- [Changed Data (used in this repo)]()
 ## Microsoft Word Standard Color Table
 #### *cells that are marked with (AVG) are the average color from their colors group.
 BW|BW-BLUE|BLUE|ORANGE|GRAY|YELLOW|BLUE2|GREEN
@@ -33,11 +33,11 @@ FFFFFF
 - The color of the text used is following the content of the text.
 - The background color that is used is an inversion of text color.
 - The background container color is written beside the colors group name.
-- In the second column color that is used follows the text color in the first column.
+- In the `second column` color that is used follows the text color in the `first column`.
 
 ![BW-BLUE](BW-BLUE.png "fig1")
 ## For example in the image above:
-- in column 1 row 1, #222A35 is the text content, and the text color is #222A35
-- in column 3 row 1,  the text color is follows column 1 line 1, and the background color uses the opposite, i.e. []
-- in rows,1 to 6, use the same background color [] as written next to the color group name
-- in column 2 row 1, the color that is used is [] equals to the color and text in column 1
+- in `column 1 row 1`, #222A35 is the text content, and the text color is [#222A35]().
+- in `column 3 row 1`,  the text color is follows column 1 line 1, and the background color uses the opposite, i.e. [#D6DCE4]()(`column 6 row 3`).
+- in `rows 1 to 6`, use the same background color [#64758D]() as written next to the color group name
+- in `column 2 row 1`, the color that is used is [#222A35]() equals to the color and text in `column 1`.
