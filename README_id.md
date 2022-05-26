@@ -1,12 +1,12 @@
 # Menulis Code HTML Menggunakan Library Python Airium
 
 ## Metode pengambilan warna:
-Warna diambil dari microsoft word menggunakan software [jpicker](github.com/stanford-gfx/jpicker). Beberapa warna yang ada dalam group `Graycscale` telah diubah dari data asli karena pada data asli terdapat warna yang sedikit dominan ke warna merah.
-Baik data asli maupun data yang sudah diubah sudah saya tambahkan ke dalam repo ini:
+Warna diambil dari Microsoft Word menggunakan software [jpicker](github.com/stanford-gfx/jpicker). Beberapa warna yang ada dalam group `Graycscale` telah diubah dari data asli karena pada data asli terdapat warna yang sedikit dominan ke warna merah.
+Baik data asli maupun data yang diubah sudah saya tambahkan ke dalam repo ini:
 - [Data Asli]()
 - [Data yang sudah diubah (digunakan saat ini)]()
-## Microsoft Word Standard Color Tabbe
-#### *sel yang ditandai (AVG) warna rata-rata dari color groupnya.
+## Microsoft Word Standard Color Table
+#### *sel yang ditandai (AVG) adalah warna rata-rata dari color groupnya.
 BW|BW-BLUE|BLUE|ORANGE|GRAY|YELLOW|BLUE2|GREEN
 |-|-|-|-|-|-|-|-|
 |000000|222A35|1F3864|833C0B|525252|7F6000|1E4E79|375623
@@ -29,14 +29,15 @@ FFFFFF
 (AVG)929292
 
 ## Petunjuk Web
+- Warna teks yang digunakan sesuai dengan isi teks.
+- Warna background yang digunakan adalah warna kebalikan dari warna teks.
+- Warna background container tertulis di samping nama color group.
+- Pada `kolom 2` warna yang digunakasn sama dengan warna teks pada `kolom 1`.
+
 ![BW-BLUE](BW-BLUE.png "fig1")
-- Warna text yang digunakan sesuai dengan isi teks
-- Warna background yang digunakan adalah warna kebalikan dari warna text
-- Warna background container tertulis di samping color group
-- Pada kolom ke dua warna yang digunakasn sama dengan warna teks pada kolom 1
 ## Misal pada gambar di atas:
-- pada `kolom 1 baris 1`, [#222A35](#222A35) adalah isi teks, dan warna teksnya adalah [#222A35](#222A35) 
-- pada `kolom 3 baris 1`, text menggunakan warna [#222A35](#222A35)  dan background menggunakan kebalikannya yaitu [#D6DCE4](#D6DCE4)(`Kolom 6 baris 3`)
-- `Baris 1` menggunakan background [#64758D](#64758D) sebagaiman tertulis di samping color group
-- Pada `kolom 2 baris 1` warna yang digunakan adalah [#222A35](#222A35)  sama dengan warna dan teks pada kolom 1
+- pada `kolom 1 baris 1`, [#222A35]() adalah isi teks, dan warna teksnya adalah [#222A35]() .
+- pada `kolom 3 baris 1`, text menggunakan warna [#222A35]()  dan background menggunakan kebalikannya yaitu [#D6DCE4]()(`kolom6 baris 3`).
+- Pada `baris 1 sampai baris 6`, menggunakan warna background yang sama yaitu [#64758D]() sebagaimana tertulis di samping nama color group.
+- Pada `kolom 2 baris 1` warna yang digunakan adalah [#222A35]()  sama dengan warna dan teks pada `kolom 1`.
 
